@@ -1,0 +1,1 @@
+NB: in questa cartella in realtà è presente anche l'esercizio 08.2
